@@ -124,5 +124,3 @@ select * from players_ranked
 
 select * from vmm_players_ranked_partitioned
 where season = 2007 and rank = 1;
-
--- parei em 28:30
